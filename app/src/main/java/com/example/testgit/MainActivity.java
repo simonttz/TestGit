@@ -31,4 +31,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+    public void hola(View view) {
+
+    }
 }
